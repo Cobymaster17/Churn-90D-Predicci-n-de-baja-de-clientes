@@ -1,4 +1,3 @@
-# requirements.txt (igual que antes; puedes añadir pytest/black si usarás lint/tests)
 pandas==2.2.2
 numpy==1.26.4
 scikit-learn==1.5.1
