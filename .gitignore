@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# env
+.env
+
+# data
+data/processed/*
+models/*
+!data/.gitkeep
+!models/.gitkeep
+
+# notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
